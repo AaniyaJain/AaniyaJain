@@ -20,7 +20,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently building: **Forge Scan X** — a deepfake detection system, and **Aarogya Mitra** — an ML-integrated healthcare assistant.
-- 👨💼 Past Internships: **Renault Nissan Automotive India Pvt. Ltd.** — Automated supply chain workflows using UiPath RPA, VBA Macros, and Power BI dashboards.
+- 👨‍💼 Past Internships: **Renault Nissan Automotive India Pvt. Ltd.** — Automated supply chain workflows using UiPath RPA, VBA Macros, and Power BI dashboards.
 - 🌱 Deepening expertise in: **Machine Learning**, **Computer Vision**, and **Generative AI**.
 - 🧠 Exploring: Workflow automation, intelligent healthcare applications, and decentralized platforms.
 - 🏅 Academics: B.Tech CSE (Software Engineering) at SRMIST (9.05 CGPA), **1st Place Winner** at Hackstrom’26.
@@ -82,6 +82,55 @@
 
 ---
 
+## 💼 Detailed Project Portfolio
+
+### 1. Forge Scan X
+A deepfake and image manipulation detection system leveraging advanced image forensics techniques.
+* **Tech Stack:** Python, Computer Vision, OpenCV
+* **Focus Areas:** Neural network validation, image artifact detection, real-time scanning.
+
+### 2. Aarogya Mitra
+A backend-driven healthcare assistant integrating ML models for automated response handling and patient interaction.
+* **Tech Stack:** Python, Machine Learning, Flask
+* **Focus Areas:** NLP intent recognition, seamless EHR integration, automated triaging.
+
+### 3. Blood Bank Management System
+A mission-critical web application built to connect blood donors with hospitals and recipients.
+* **Tech Stack:** SQL, HTML/CSS, Node.js
+* **Focus Areas:** Centralized platform for donor record management, inventory tracking, and matching requests based on robust DBMS concepts.
+
+### 4. SRMiggy
+A smart campus food ordering application to streamline canteen operations.
+* **Tech Stack:** HTML, CSS, JavaScript
+* **Focus Areas:** Responsive frontend modules, live order state tracking, zero-latency updates.
+
+### 5. DEVI
+A decentralized Web3 safety platform for women.
+* **Tech Stack:** Web3, Solidity, HTML/CSS
+* **Focus Areas:** Frontend development and interface optimization for improved usability and decentralized deployment.
+
+### 6. MediVue
+A comprehensive healthcare management system streamlining patient records and hospital administration.
+* **Tech Stack:** Java, JDBC, SQL
+* **Focus Areas:** Database normalization (3NF), role-based access control, secure authentication.
+
+---
+
+## 📈 About My Version Control Workflow
+
+If you explore my contribution graph, you will notice a high volume of consistent, incremental commits over a two-year span. 
+
+**Why so many commits?**
+I strongly adhere to Agile methodologies and iterative development. Instead of massive, monolithic uploads, I break my work down into micro-tasks:
+1. **Database Schema Setup** ➔ *Commit*
+2. **Core Logic Implementation** ➔ *Commit*
+3. **UI/UX Tweaks & CSS Fixes** ➔ *Commit*
+4. **Bug Fixes & Refactoring** ➔ *Commit*
+
+My central `aaniya-dev` repository acts as the aggregation point for all these micro-commits across my disparate projects, allowing me to track my continuous daily progress, manage cross-project dependencies, and maintain a unified developer timeline.
+
+---
+
 ### 🧠 Certifications
 
 - SAP Generative AI Developer (2026)
@@ -91,19 +140,6 @@
 
 ---
 
-## 💼 Projects
-
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| **Forge Scan X** | Python, Computer Vision | A deepfake and image manipulation detection system leveraging advanced image forensics techniques. |
-| **Aarogya Mitra** | Python, Machine Learning | A backend-driven healthcare assistant integrating ML models for automated response handling and patient interaction. |
-| **Blood Bank Management System** | SQL, HTML/CSS | Centralized platform for donor record management, inventory tracking, and matching requests based on robust DBMS concepts. |
-| **SRMiggy** | HTML, CSS, JavaScript | A smart campus food ordering application to streamline canteen operations with responsive frontend modules. |
-| **DEVI** | Web3, HTML/CSS | A decentralized Web3 safety platform where I contributed to frontend development and interface optimization for improved usability. |
-| **MediVue** | Java, JDBC, SQL | A comprehensive healthcare management system streamlining patient records and hospital administration. |
-
----
-
-### 🧩 Motto
-
-> "Automate the ordinary to focus on the extraordinary."
+<div align="center">
+  <i>"Automate the ordinary to focus on the extraordinary."</i>
+</div>
